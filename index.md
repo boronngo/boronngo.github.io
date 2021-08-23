@@ -1,16 +1,15 @@
-# ポートフォリオ
+# 職務経歴書
 
 ## プロフィール
 
-- 氏名
-  - 古川 侑紀 / Yuki Furukawa
-- GitHub
-  - @boronngo
-- Twitter
-  - @yuki_furukawa5
-- Facebook
-- Qiita
-- Zenn
+|          |                                                               |
+| -------- | ------------------------------------------------------------- |
+| 氏名     | 古川 侑紀 / Yuki Furukawa                                     |
+| GitHub   | [@boronngo](https://github.com/boronngo/)                     |
+| Twitter  | [@yuki_furukawa_5](https://twitter.com/yuki_furukawa_5)       |
+| Facebook | [Yuki Furukawa](https://www.facebook.com/yuki.furukawa.3388/) |
+| Qiita    | [@boronngo](https://qiita.com/boronngo)                       |
+| Zenn     | [@boronngo](https://zenn.dev/boronngo)                        |
 
 ## 技術スタック
 
