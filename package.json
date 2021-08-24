@@ -1,0 +1,11 @@
+{
+  "name": "boronngo.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.3.2",
+    "prettier-plugin-md-nocjsp": "^1.1.1",
+    "textlint": "^12.0.0",
+    "textlint-rule-preset-jtf-style": "^2.3.12"
+  }
+}

@@ -34,16 +34,20 @@
 
 ### エムスリー株式会社 / 2018.09 -
 
-- 治験向け Web サービスの新規開発
-  - エンジニア 1 名、QA 1 名、デザイナー 1 名、プロダクトマネージャー 1 名
+- 治験向けWebサービスの新規開発
+
+  - エンジニア1名、QA1名、デザイナー1名、プロダクトマネージャー1名
   - 基本設計 / 詳細設計 / 実装
   - React / TypeScript / Spring Boot / Kotlin / OpenAPI
-- オンプレ Rails サービスのクラウド移行
-  - エンジニア 1 名、QA 1 名
-  - オンプレの Apache + Passenger から AWS ECS の Nginx + Puma に移行
-  - Ruby on Rails 4.2 -> 5.2 へのアップグレード
+
+- オンプレRailsサービスのクラウド移行
+
+  - エンジニア1名、QA1名
+  - オンプレのApache + PassengerからAWS ECSのNginx + Pumaに移行
+  - Ruby on Rails 4.2から5.2へのアップグレード
+
 - アンケートシステムの新規開発
-  - エンジニア 4 名, QA1 名、プロダクトマネージャー 1 名
+  - エンジニア4名、QA1名、プロダクトマネージャー1名
   - React / TypeScript / Spring Boot / Kotlin / OpenAPI
 
 ### SCSK 株式会社 / 2017.04 - 2018.07
