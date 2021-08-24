@@ -48,6 +48,7 @@
 
 - アンケートシステムの新規開発
   - エンジニア4名、QA1名、プロダクトマネージャー1名
+  - 詳細設計 / 実装 / 単体テスト作成
   - React / TypeScript / Spring Boot / Kotlin / OpenAPI
 
 ### SCSK 株式会社 / 2017.04 - 2018.07
